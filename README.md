@@ -9,3 +9,5 @@ barra de navegación con enlace a "favoritos.html"
 lista de canciones y peliculas favoritas utilizando
 lista desordenada (ul) para películas favoritas
 lista ordenada (ol) para canciones favoritas
+
+Se utiliza estilos básicos CSS
