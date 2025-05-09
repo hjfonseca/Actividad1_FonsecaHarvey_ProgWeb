@@ -1,0 +1,68 @@
+body {
+    background-color: burlywood;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.card{
+    margin: auto;
+    background: brown;
+    width: 400px;
+    padding: 10px;
+    padding: 10px;
+    border: 2px solid black;
+}
+
+h2{
+    color: rgb(243, 178, 171);
+    margin: 0;
+}
+
+img{
+    width: 400px;
+    border: 2px solid black;
+    border-radius: 6px;
+}
+
+a {
+    text-decoration: none;
+    color: purple;
+    font-weight: bold;
+}
+
+p {
+    font-size: 12px;
+    text-align: justify;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: beige;
+}
+
+img:hover {
+    transform: scale(1.01);
+}
+
+#titulo {
+    color: black;
+}
+
+nav {
+    background-color: khaki;
+}
+
+#nav-list {
+    text-decoration: none;
+    color: brown;
+}
+
+#nav-list:hover {
+    text-decoration: underline;
+    font-weight: 300;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
